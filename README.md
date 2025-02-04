@@ -8,7 +8,7 @@
 <td width="50%" align="left">
   
 
-- 🚀 Exploring **Artificial Intelligence** & **MERN Stack**
+- 🚀 Exploring **Artificial Intelligence**
 
 - 🎓 Undergraduate **Software Engineer | Plymouth University**
 

@@ -7,11 +7,16 @@
 <tr border="none">
 <td width="50%" align="left">
   
--🚀 Exploring **Artificial Intelligence** & **MERN Stack**
--🎓 Undergraduate **Software Engineer | Plymouth University**
--💡 Passionate about **Full Stack & AI Development**
--📩 Let's Connect: **indujanimnaka01@gmail.com**
+
+- 🚀 Exploring **Artificial Intelligence** & **MERN Stack**
+
+- 🎓 Undergraduate **Software Engineer | Plymouth University**
+
+- 💡 Passionate about **Full Stack & AI Development**
+
+- 📩 Let's Connect: **indujanimnaka01@gmail.com**
   
+ 
 
 </td>
 <td width="50%" align="center">

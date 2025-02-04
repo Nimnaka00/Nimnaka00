@@ -10,9 +10,9 @@
 
 - 🚀 Exploring **Artificial Intelligence**
 
-- 🎓 Undergraduate **Software Engineer | Plymouth University**
+- 🎓 Undergraduate **Software Engineer |   Plymouth University**
 
-- 💡 Passionate about **Full Stack & AI Development**
+- 💡 Passionate about **Full Stack &   AI Development**
 
 - 📩 Let's Connect: **indujanimnaka01@gmail.com**
   

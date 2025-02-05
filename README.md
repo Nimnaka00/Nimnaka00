@@ -65,8 +65,8 @@
 
 ---
 <div>
-    <a><h2>Trophies</h2></a>
+    <h3 align="center">Trophies</h3>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=mrabro&row=4&theme=onedark&no-frame=true"/>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Nimnaka00&row=4&theme=onedark&no-frame=true"/>
 </div>
 

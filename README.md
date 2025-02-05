@@ -1,4 +1,4 @@
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Nimnaka</h1>
 <h3 align="center">IT Explorer | Turning Challenges into Tech Solutions</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nimnaka00&label=Profile%20views&color=0e75b6&style=flat" alt="scar1109" /> </p>

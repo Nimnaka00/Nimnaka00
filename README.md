@@ -38,7 +38,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Nimnaka00&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Nimnaka00" alt="GitHub Streak" /></a>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nimnaka's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nimnaka00&theme=dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
 
@@ -65,7 +65,7 @@
 
 ---
 <div>
-    <h3 align="center">Trophies</h3>
+    <h3 align="center">Trophies:</h3>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=Nimnaka00&row=4&theme=onedark&no-frame=true"/>
 </div>

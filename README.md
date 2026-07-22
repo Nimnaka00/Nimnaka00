@@ -45,7 +45,7 @@ indujanimnaka01@gmail.com
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,js,py,php&theme=dark"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,bootstrap,tailwind&theme=dark"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mssql,docker,git,androidstudio,figma,postman&theme=dark"/>
 </p>

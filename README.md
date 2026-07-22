@@ -1,110 +1,105 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Hi%20There,%20I'm%20Nimnaka&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Application%20Development%20Manager%20%7C%20AI%20Research%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff&text=SYSTEM%3A%2F%2FNIMNAKA.INIT&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=32&desc=Application%20Development%20Manager%20%E2%97%86%20AI%20Research%20%E2%97%86%20Full-Stack%20Engineer&descAlignY=52&descSize=17&descColor=00e5ff&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Application+Development+Manager;AI+Research+%26+Innovation;Full-Stack+Software+Engineer;UI%2FUX+%7C+Product-Minded+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=%3E+booting+nimnaka.exe...;%3E+role%3A+Application+Development+Manager;%3E+focus%3A+AI+Research+%26+Applied+ML;%3E+stack%3A+Full-Stack+Engineering+%2B+UI%2FUX;%3E+status%3A+ONLINE+%E2%9C%93" alt="Typing SVG"/>
 </a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Nimnaka00&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Location-Kalutara%2C%20Sri%20Lanka-58A6FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/github/followers/Nimnaka00?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="Followers"/>
-</p>
-
-</div>
 
 <br/>
 
-## 🧭 About Me
+<img src="https://komarev.com/ghpvc/?username=Nimnaka00&label=PROFILE+VIEWS&color=6A0DAD&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-Kalutara%2C%20Sri%20Lanka-FF2181?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/github/followers/Nimnaka00?label=FOLLOWERS&style=for-the-badge&color=00E5FF&logo=github&logoColor=white"/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+</div>
 
-```yaml
-name:      Nimnaka (Induja Nimnaka)
-role:      Application Development Manager
-interests: [Artificial Intelligence, Full-Stack Engineering, Product Design]
-based_in:  Kalutara, Sri Lanka
-education: Plymouth University — Software Engineering
+<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
+
+### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> whoami
+
+```bash
+$ whoami
+Nimnaka (Induja Nimnaka)
+
+$ cat role.txt
+Application Development Manager — leading full-stack delivery end-to-end
+
+$ echo $CURRENTLY_EXPLORING
+Artificial Intelligence & Applied ML Research
+
+$ echo $EDUCATION
+Plymouth University — B.Sc. Software Engineering
+
+$ ls ./interests/
+ai-research/  system-design/  product-strategy/  ui-ux-craft/
+
+$ contact --email
+indujanimnaka01@gmail.com
 ```
 
-- 🧑‍💼 **Application Development Manager** — leading delivery of full-stack products end-to-end
-- 🧠 Deep-diving into **Artificial Intelligence & Applied ML Research**
-- 🎓 Software Engineering graduate — **Plymouth University**
-- 🎨 Also design in **UI/UX**, so I care how the product *feels*, not just how it runs
-- 💬 Ask me about **team delivery, system design, or AI-driven product features**
-- 📩 Reach me at **indujanimnaka01@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-</td>
-<td width="45%" align="center" valign="top">
-
-<sub>✨ me, rendered in pure text ✨</sub>
-
-```
-             :
-             .
-             .
-             .     .......
-             .  :+#########*++-:
-             .-*#%%%%%%%@%%%%@@%+
-             .=%%%%@@%@@@@@@%%%%@-
-             . *%###**++**+*%%%%%:
-             . .+---:::.:::-#%#%*
-             .  -+-:::-===--=+#%:
-             .  -*++-=*#+**=--**-.
-             .  :---:---------=+=.
-             .  ::-==+=:::---=-:
-             .  .=+=++++---==:
-             .   ==-+--++====-
-             .   =%***####*==*.
-             ...:.*%###**+==+:..      .::
-      :.......:.::+++*+++=+++:::.... ..
-%%@#=:.........:::=+-+=====+-::.........:
-%@*:..............::-------:............  .
- =...................::.::..................:
-:.....:..............:.................:....
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> tech_stack.json
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nimnaka00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimnaka00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,py,php&theme=dark"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,bootstrap,tailwind&theme=dark"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mssql,docker,git,androidstudio,figma,postman&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Nimnaka00&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-6A0DAD?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Product%20%26%20Delivery-Management-FF2181?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Design-00E5FF?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
+
+### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> analytics.render()
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nimnaka00&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2181&text_color=C9D1D9&border_color=6A0DAD"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimnaka00&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=6A0DAD"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nimnaka00&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="97%"/>
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,cs,css,git,docker,html,java,js,mssql,php,tailwind,androidstudio,figma,mongodb,nodejs,postman,react,express,python&theme=dark" alt="Skills"/>
+  <img src="https://streak-stats.demolab.com/?user=Nimnaka00&hide_border=true&background=0D1117&border=6A0DAD&ring=FF2181&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=6A0DAD"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-58A6FF?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Product%20%26%20Delivery-Management-58A6FF?style=for-the-badge&logo=trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Design-58A6FF?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nimnaka00&hide_border=true&bg_color=0D1117&color=00E5FF&line=FF2181&point=FFFFFF&area=true&area_color=6A0DAD"/>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-## 🌐 Connect With Me
+### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> contribution_snake.gif
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nimnaka00/Nimnaka00/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nimnaka00/Nimnaka00/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Nimnaka00/Nimnaka00/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+<sub>auto-generated every 6h by GitHub Actions — devours the commit graph above 🐍</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
+
+### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> trophy_case()
+
+<p align="center">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Nimnaka00&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
+
+### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> connect --all
 
 <p align="center">
   <a href="mailto:indujanimnaka01@gmail.com">
@@ -124,13 +119,7 @@ education: Plymouth University — Software Engineering
   </a>
 </p>
 
----
-
-<h3 align="center">🏆 Trophies</h3>
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Nimnaka00&row=1&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophy"/>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff&section=footer&animation=fadeIn"/>
 </div>
+</content>

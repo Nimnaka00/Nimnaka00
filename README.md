@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> whoami
+### 💻 whoami
 
 ```bash
 $ whoami
@@ -40,7 +40,7 @@ indujanimnaka01@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> tech_stack.json
+### 🧬 tech_stack.json
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,java,js,py,php&theme=dark"/>
@@ -58,11 +58,11 @@ indujanimnaka01@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> analytics.render()
+### 📡 analytics.render()
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nimnaka00&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2181&text_color=C9D1D9&border_color=6A0DAD"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nimnaka00&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=6A0DAD"/>
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Nimnaka00&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF2181&text_color=C9D1D9&border_color=6A0DAD"/>
+  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Nimnaka00&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&border_color=6A0DAD"/>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ indujanimnaka01@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> contribution_snake.gif
+### 🐍 contribution_snake.gif
 
 <div align="center">
 
@@ -91,15 +91,7 @@ indujanimnaka01@gmail.com
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
 
-### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> trophy_case()
-
-<p align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Nimnaka00&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15"/>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=4&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff" width="100%"/>
-
-### <img src="https://media.giphy.com/media/iY6RCbSSKPGkyxHnHl/giphy.gif" width="28"/> connect --all
+### 📶 connect --all
 
 <p align="center">
   <a href="mailto:indujanimnaka01@gmail.com">
@@ -122,4 +114,3 @@ indujanimnaka01@gmail.com
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1a0b2e,25:6a0dad,60:ff2181,100:00e5ff&section=footer&animation=fadeIn"/>
 </div>
-</content>
